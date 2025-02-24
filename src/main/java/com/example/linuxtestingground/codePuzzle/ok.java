@@ -10,6 +10,8 @@ import java.math.*;
  **/
 class Player {
 
+
+
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int surfaceN = in.nextInt(); // the number of points used to draw the surface of Mars.
